@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FORM GENERATOR</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="authornameinput">AuthorNameInput</string>
+    <string name="enter_field_type">Enter Field Type</string>
+    <string name="form_generator">FORM GENERATOR</string>
+    <string name="formnameinput">FormNameInput</string>
+    <string name="generate_form">Generate</string>
+    <string name="label_input">Label Input</string>
+    <string name="name_input">Name Input</string>
+    <string name="value_type_input">Value type Input</string>
+    <string-array name="fieldtype">
+        <item>Text</item>
+        <item>Password</item>
+        <item>Button</item>
+
+    </string-array>
+</resources>

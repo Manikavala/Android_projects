@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Setting"
+          android:id="@+id/setting"
+          android:orderInCategory="3"></item>
+    <item android:title="One"
+          android:id="@+id/one"
+          android:orderInCategory="1"
+        ></item>
+    <item android:title="Two"
+          android:id="@+id/two"
+          android:icon="@android:drawable/ic_btn_speak_now"
+          app:showAsAction="always"
+          android:orderInCategory="2"
+        ></item>
+</menu>

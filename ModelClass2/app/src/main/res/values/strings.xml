@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ModelClass</string>
+    <array name="branch">
+        <item>ECE</item>
+        <item>CsE</item>
+        <item>EEE</item>
+        <item>IT</item>
+    </array>
+</resources>

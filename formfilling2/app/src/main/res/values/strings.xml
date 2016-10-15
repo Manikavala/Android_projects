@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">formfilling2</string>
+    <array name="branch">
+        <item>ECE</item>
+        <item>CSE</item>
+        <item>IT</item>
+    </array>
+</resources>

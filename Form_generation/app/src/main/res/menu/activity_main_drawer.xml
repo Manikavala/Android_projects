@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_createform"
+            android:icon="@mipmap/createform"
+            android:title="CreateForm" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="CreateChildForm" />
+        <item
+            android:id="@+id/nav_refresh"
+            android:icon="@mipmap/refresh"
+            android:title="Refresh" />
+        <item
+            android:id="@+id/nav_available_forms"
+            android:icon="@mipmap/availableforms"
+            android:title="Available Forms" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
